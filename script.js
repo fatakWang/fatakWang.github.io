@@ -171,6 +171,7 @@ function drawStar() {
 createParticles();
 drawStar();
 
+
 mainTl.from(['.treePathMask', '.treePotMask'], {
         duration: 6,
         drawSVG: '0% 0%',
